@@ -1,2 +1,2 @@
 # hello-world
-Saying hello to GitHub need a cap at char #1. 
+Saying hello to GitHub needs a cap at char #1. 
